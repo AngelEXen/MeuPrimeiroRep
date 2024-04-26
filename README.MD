@@ -12,7 +12,8 @@ Jogos que gosto:
 + Valorant
 
 Metas para o futuro:
-- 
-* 
-+ 
+-  
+*  
++  
+
 
