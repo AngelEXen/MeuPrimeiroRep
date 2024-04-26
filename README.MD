@@ -2,6 +2,11 @@
 
 ## Angelo G Cuerba
 
-### ***Estudo Desenvolvimento de Sistema***
+### Atualmente estudando Desenvolvimento de Sistema
 
-**Seja bem-vindo ao meu repositório.**
+**Seja bem-vindo ao meu perfil.**
+
+Jogos que gosto:
+- Minecraft
+* Soulslike...
++ valorant
