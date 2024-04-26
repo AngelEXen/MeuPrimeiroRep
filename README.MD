@@ -1,22 +1,28 @@
 # Meu Perfil 
 
-## Angelo G Cuerba
+Olá, meu nome é Angelo Gabriel C de Lima
 
 ### Atualmente estudando Desenvolvimento de Sistema(DEV).
 
-**Seja bem-vindo ao meu perfil.**
-
-Jogos que gosto:
-- ⛏ Minecraft
-* 👻 Soulslikes
-+ 🎮 Valorant
+---
 
 ### Hobbies
+**Jogo ***Vôlei*** 🏐 no tempo livre, seja com amigos ou parentes. Gosto de jogar no computador e com os meus amigos.**
 
-Jogo Vôlei 🏐 no tempo livre, seja com amigos ou parentes.
+---
 
+#### Jogos que gosto:
+- **⛏ Minecraft**
+* **👻 Soulslikes**
++ **🎮 Valorant**
+- **...**
 
+#### Algumas séries e filmes:
+- **Vingadores: Ultimato**
+- **Maze Runner**
+- **The last of us**
+- **Stranger Things**
+- **...**
 
-
-
+---
 
