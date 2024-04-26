@@ -7,13 +7,13 @@
 **Seja bem-vindo ao meu perfil.**
 
 Jogos que gosto:
-- Minecraft ⛏
-* Soulslikes 👻
-+ Valorant 🎮
+- ⛏ Minecraft
+* 👻 Soulslikes
++ 🎮 Valorant
 
 ### Hobbies
 
-Jogo vôlei 🏐 no tempo livre, seja com amigos ou parentes.
+Jogo Vôlei 🏐 no tempo livre, seja com amigos ou parentes.
 
 
 
