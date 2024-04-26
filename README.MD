@@ -7,13 +7,10 @@
 **Seja bem-vindo ao meu perfil.**
 
 Jogos que gosto:
-- Minecraft
-* Soulslikes
-+ Valorant
+1. Minecraft
+2. Soulslikes
+3. Valorant
 
-Metas para o futuro:
--  
-*  
-+  
+
 
 
