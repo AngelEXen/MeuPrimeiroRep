@@ -26,3 +26,6 @@ Olá, meu nome é Angelo Gabriel C de Lima
 
 ---
 
+{C:red}AAAAAAA{/C}
+
+[size=50][fa=check-circle /] OLA[/size]
