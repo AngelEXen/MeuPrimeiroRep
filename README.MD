@@ -18,14 +18,10 @@ Olá, meu nome é Angelo Gabriel C de Lima
 - **...**
 
 #### Algumas séries e filmes:
-- **Vingadores: Ultimato**
-- **Maze Runner**
-- **The last of us**
-- **Stranger Things**
+- **<span style="color: blue"> Vingadores: </span> <span style="color: white"> Ultimato </span>**
+- **<span style="color: silver"> Maze Runner </span>**
+- **<span style="color: Red"> The Last of Us </span>**
+- **<span style="color: red"> Stranger </span> <span style="color: white"> Things </span>**
 - **...**
 
 ---
-
-{C:red}AAAAAAA{/C}
-
-[size=50][fa=check-circle /] OLA[/size]
